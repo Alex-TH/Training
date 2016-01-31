@@ -29,17 +29,17 @@ Print the largest Decent Number having N digits; if no such number exists, tell 
 
 ##Sample Input
 
-4
-1
-3
-5
+4  
+1  
+3  
+5  
 11
 
 ##Sample Output
 
--1
-555
-33333
+-1  
+555  
+33333  
 55555533333
 
 ##Explanation
