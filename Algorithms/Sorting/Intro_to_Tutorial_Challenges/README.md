@@ -11,24 +11,24 @@ The first series of challenges covers sorting. The challenges are listed below:
 
 Insertion Sort challenges
 
-+Insertion Sort 1 - Inserting
-+Insertion Sort 2 - Sorting
-+Correctness and loop invariant
-+Running Time of Algorithms
++ Insertion Sort 1 - Inserting
++ Insertion Sort 2 - Sorting
++ Correctness and loop invariant
++ Running Time of Algorithms
 
 Quicksort challenges
 
-+Quicksort 1 - Partition
-+Quicksort 2 - Sorting
-+Quicksort In-place (advanced)
-+Running time of Quicksort
++ Quicksort 1 - Partition
++ Quicksort 2 - Sorting
++ Quicksort In-place (advanced)
++ Running time of Quicksort
 
 Counting sort challenges
 
-+Counting Sort 1 - Counting
-+Counting Sort 2 - Simple sort
-+Counting Sort 3 - Preparing
-+Full Counting Sort (advanced)
++ Counting Sort 1 - Counting
++ Counting Sort 2 - Simple sort
++ Counting Sort 3 - Preparing
++ Full Counting Sort (advanced)
 
 There will also be some challenges where you'll get to apply what you've learnt.
 
@@ -55,9 +55,9 @@ The next section describes the constraints and ranges of the input. You should c
 
 ##Constraints
 
-1≤n≤1000
-−1000≤V≤1000,V∈ar
-It is guaranteed that V will occur in ar exactly once.
+1≤n≤1000  
+−1000≤V≤1000,V∈ar  
+It is guaranteed that V will occur in ar exactly once.  
 This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.
 
 ##Sample Input
