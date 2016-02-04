@@ -23,7 +23,7 @@ There will be two lines of input:
 On each line, output the entire array every time an item is shifted in it.
 
 ##Constraints 
-1≤Size≤1000 
+1≤Size≤1000  
 −10000≤e≤10000,e∈Arr
 
 ##Sample Input
