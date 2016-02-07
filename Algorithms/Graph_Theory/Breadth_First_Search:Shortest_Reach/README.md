@@ -48,7 +48,7 @@ For test cases 1:
 
 The graph given in the test case is shown as :
 
-![Graph](http://drive.google.com/uc?export=download&amp;id=0B_UrJ0h5_x_mSXl6NG1CeVozdnc)
+![Graph](graph2.PNG)
 
 S denotes the node 1 in the test case and B,C and D denote 2,3 and 4. Since S is the starting node and the shortest distances from it are (1 edge, 1 edge, Infinity) to the nodes B,C and D (2,3 and 4) respectively.
 
