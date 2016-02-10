@@ -6,9 +6,9 @@ Write a JavaScript program to display the status (i.e. display book name, author
 
 + If the book is unread:
 
-You still need to read '<book_name>' by <author_name>.
+You still need to read 'book_name' by author_name.
 
 + If the book is read:
 
-Already read '<book_name>' by <author_name>.
+Already read 'book_name' by author_name.
 
