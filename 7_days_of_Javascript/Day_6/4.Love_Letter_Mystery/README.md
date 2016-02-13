@@ -14,8 +14,8 @@ Each reduction in a letter's value is counted as 11 operation. For each test cas
 2.- Each of the TT subsequent lines contains a single string of lowercase characters.  
 
 ##Constraints 
-1≤T≤101≤T≤10  
-1≤1≤ length of string ≤104≤104  
+1≤T≤10  
+1≤ length of string ≤104  
 All characters are lowercase English letters. 
 
 ##Output Format
@@ -43,11 +43,11 @@ cba
 
 ##Explanation
 
-Test Case 0: abc →→ abb →→ aba. We print the number of operations, 2, on a new line.
+Test Case 0: abc → abb → aba. We print the number of operations, 2, on a new line.
 
 Test Case 1: abcba is already a palindrome. We print the number of operations, 0, on a new line.
 
-Test Case 2: abcd →→ abcc →→ abcb = abca. Then abca →→ abba. We print the number of operations, 4, on a new line.
+Test Case 2: abcd → abcc → abcb = abca. Then abca → abba. We print the number of operations, 4, on a new line.
 
-Test Case 3: cba →→ bba →→ aba. We print the number of operations, 2, on a new line.
+Test Case 3: cba → bba → aba. We print the number of operations, 2, on a new line.
 º

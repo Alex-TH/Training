@@ -15,9 +15,9 @@ Output an integer that denotes the maximum number of toys Mark can buy with $K$K
 
 ##Constraints 
 
-1<=N<=1051<=N<=105  
-1<=K<=1091<=K<=109  
-1<=price of any toy<=1091<=price of any toy<=109  
+1<=N<=105  
+1<=K<=109  
+1<=price of any toy<=109  
 A toy can't be bought multiple times.
 
 ##Sample Input

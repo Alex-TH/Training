@@ -12,8 +12,8 @@ This will be followed by the matrix grid: the list of numbers that make up the m
 Print the length of the largest region in the given matrix.
 
 ##Constraints
-0<m<100<m<10  
-0<n<100<n<10  
+0<m<10  
+0<n<10  
 
 ##Sample Input:
 
