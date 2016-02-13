@@ -43,11 +43,11 @@ cba
 
 ##Explanation
 
-Test Case 0: abc →→ abb →→ aba. We print the number of operations, 22, on a new line.
+Test Case 0: abc →→ abb →→ aba. We print the number of operations, 2, on a new line.
 
-Test Case 1: abcba is already a palindrome. We print the number of operations, 00, on a new line.
+Test Case 1: abcba is already a palindrome. We print the number of operations, 0, on a new line.
 
-Test Case 2: abcd →→ abcc →→ abcb = abca. Then abca →→ abba. We print the number of operations, 44, on a new line.
+Test Case 2: abcd →→ abcc →→ abcb = abca. Then abca →→ abba. We print the number of operations, 4, on a new line.
 
-Test Case 3: cba →→ bba →→ aba. We print the number of operations, 22, on a new line.
+Test Case 3: cba →→ bba →→ aba. We print the number of operations, 2, on a new line.
 º

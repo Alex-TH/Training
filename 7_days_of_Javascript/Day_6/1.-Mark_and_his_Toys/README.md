@@ -34,5 +34,5 @@ A toy can't be bought multiple times.
 
 ##Explanation
 
-He can buy only 44 toys at the most. These toys have the following prices: 1,12,5,101,12,5,10.
+He can buy only 4 toys at the most. These toys have the following prices: 1,12,5,10.
 
