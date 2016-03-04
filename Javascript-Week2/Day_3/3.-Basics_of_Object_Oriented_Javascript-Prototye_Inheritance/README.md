@@ -39,6 +39,6 @@ true
 
 ##Task
 
-You are given 3 functions: AlphaAlpha, VowelVowel, and ConsonantConsonant. 
-Your task is to fill in the blanks (__________________________), so that both VowelVowel and ConsonantConsonant inherit their properties and methods from AlphaAlpha.
+You are given 3 functions: Alpha, Vowel, and Consonant. 
+Your task is to fill in the blanks (__________________________), so that both Vowel and Consonant inherit their properties and methods from Alpha.
 
