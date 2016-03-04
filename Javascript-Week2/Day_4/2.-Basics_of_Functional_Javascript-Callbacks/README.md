@@ -8,7 +8,7 @@ In JavaScript, functions are objects that can be passed as parameters to other f
 
 ###SAMPLE CODE
 
-```
+```javascript
   function myMap(my_array, callback){  
 	  var arr = [];  
   	for(var index in my_array){  
@@ -34,9 +34,9 @@ In JavaScript, functions are objects that can be passed as parameters to other f
 
 ##Task
 
-Write a myFiltermyFilter function that takes 22 parameters: my_arraymy_array and callbackcallback. 
-Here, my_arraymy_array is an array of strings and callbackcallback is a function that takes the elements of my_arraymy_array as its parameter and returns a boolean true if the element is even or false if the element is odd. 
-The myFiltermyFilter function should return the filtered array.
+Write a myFilter function that takes 2 parameters: my_array and callback. 
+Here, my_array is an array of strings and callback is a function that takes the elements of my_array as its parameter and returns a boolean true if the element is even or false if the element is odd. 
+The myFilter function should return the filtered array.
 
 ###Sample Input
 

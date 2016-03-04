@@ -8,7 +8,7 @@ Currying can be described as transforming a function that takes N arguments so t
 
 ###SAMPLE CODE
 
-```
+```javascript
   "use strict"  
   let greetings = from =>   
 	  		message =>   

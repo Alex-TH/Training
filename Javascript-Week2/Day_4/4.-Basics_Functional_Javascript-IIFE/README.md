@@ -6,7 +6,7 @@ In this challenge, we learn about Immediately Invoked Function Expressions (IIFE
 ##Resources 
 An IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined. They can be written in different ways, though a common convention is to enclose both the function expression and invocation in parentheses.
 
-```
+```javascript
   (function() {  
     // the code here is executed once in its own scope  
   })();  
@@ -14,7 +14,7 @@ An IIFE (Immediately Invoked Function Expression) is a JavaScript function that 
 
 Passing variables into the scope is done as follows:
 
-```
+```javascript
   (function(a, b) {  
     // a == 'Hello'  
     // b == 'IIFE'  
@@ -25,7 +25,7 @@ The advantage of the IIFE is that any vars declared inside it are inaccessible t
 
 ###SAMPLE CODE
 
-```
+```javascript
   var sulphuricAcid = (function(){  
 	  var corrosive = true;  
   	var pH = 2;  
@@ -49,9 +49,9 @@ Corrosive : true
 pH acidic : true  
 ```
 
-As you can see, we used the IIFE's return value to make sulphuricAcidsulphuricAcid's utility functions publicly accessible while simultaneously ensuring that its pHpH and corrosivecorrosive values remained inaccessible.
+As you can see, we used the IIFE's return value to make sulphuricAcid's utility functions publicly accessible while simultaneously ensuring that its pH and corrosive values remained inaccessible.
 
 ##Task
 
-You are given an object, captcha_checkcaptcha_check. Your task is to change captcha_checkcaptcha_check into an IIFE so that the botbot variable is unable to access the actual_captchaactual_captcha.  
+You are given an object, captcha_check. Your task is to change captcha_check into an IIFE so that the botbot variable is unable to access the actual_captcha.  
 

@@ -37,10 +37,5 @@ t
 l  
 p  
 s  
-Submissions: 712  
-Max Score: 10  
-Difficulty: Easy  
-More  
-Current Buffer (saved locally, editable)     
 ```
 

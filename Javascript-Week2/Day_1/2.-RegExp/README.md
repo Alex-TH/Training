@@ -20,7 +20,7 @@ Vowels are a, e, i, o and u.
 
 ##Hint
 
-```
+```javascript
 // Find a substring of length greater than one that starts and ends with same character.
 
 var re = /(.).*\1/;
@@ -34,69 +34,70 @@ console.log("substring = " + str1.match(re));
 console.log("substring = " + str2.match(re)[0]);
 console.log("substring = " + str3.match(re)[0]);
 console.log("substring = " + str4.match(re)[0]);
+```
 
 ##The code output is:
+
 ```
-```
-substring = null
-substring = wxyzw
-substring = xyzx
-substring = wxyw
+substring = null  
+substring = wxyzw  
+substring = xyzx  
+substring = wxyw  
 ```
 
 ##Constraints
 
 The length of the string is ≥ 3.
 
-##Sample Input 1
+###Sample Input 1
 
 ```
 bcd
 ```
 
-##Sample Output 1
+###Sample Output 1
 
 ```
 false
 ```
 
-##Sample Input 2
+###Sample Input 2
 
-``
+```
 abcd
 ```
 
-##Sample Output 2
+###Sample Output 2
 
 ```
 false
 ```
 
-##Sample Input 3
+###Sample Input 3
 
 ```
 abcda
 ```
 
-##Sample Output 3
+###Sample Output 3
 
 ```
 true
 ```
 
-##Sample Input 4
+###Sample Input 4
 
 ``` 
 abcdo
 ```
 
-##Sample Output 4
+###Sample Output 4
 
 ```
 false
 ```
 
-##Explanation
+###Explanation
 
   + bcd: The string starts with a consonant.  
 

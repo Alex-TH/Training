@@ -20,27 +20,27 @@ Create a clickable button with the following parameters:
 
 ##Sample
 
-Initially, the button is:
+Initially, the button text is:
 
-    ```
-    1  
-    ```
+```
+1  
+```
 
 After the first four clicks, the button is:
 
-    ```
-    4  
-    ```
+```
+4  
+```
 
 After five more clicks, the button is:
 
-    ```
-    5  
-    ```
+```
+5  
+```
 
 ##Note
 
-The js and css files are in different directories, so use the <link> tag to provide the path of the css file and <script> tag to provide the path of the js file:
+The js and css files are in different directories, so use the ```html<link>``` tag to provide the path of the css file and ```html<script>``` tag to provide the path of the js file:
 
 ```html
 <!DOCTYPE html>

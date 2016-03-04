@@ -8,7 +8,7 @@ All JavaScript objects inherit the properties and methods from their prototype. 
 
 ###SAMPLE CODE
 
-```
+```javascript
   var Animal = function(){};  
   Animal.prototype.eat = function(){  
   	console.log("They eat food to survive.");  
@@ -39,6 +39,6 @@ true
 
 ##Task
 
-You are given 33 functions: AlphaAlpha, VowelVowel, and ConsonantConsonant. 
+You are given 3 functions: AlphaAlpha, VowelVowel, and ConsonantConsonant. 
 Your task is to fill in the blanks (__________________________), so that both VowelVowel and ConsonantConsonant inherit their properties and methods from AlphaAlpha.
 

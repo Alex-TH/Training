@@ -7,7 +7,7 @@ In this challenge, we practice creating objects in JavaScript.
 
 There are different ways to create new objects in JavaScript:
 
-  + Define and create a single object using the object literal {}{}.  
+  + Define and create a single object using the object literal {}.  
 
   + Define and create a single object with the keyword new.  
 
@@ -19,7 +19,7 @@ Constructors makes it easy to create multiple objects that have the same propert
 
 ###SAMPLE CODE
 
-```
+```javascript
   var Book = function(book_name, book_year, book_isbn){  
   
 	  this.name = book_name;  
@@ -49,7 +49,7 @@ Constructors makes it easy to create multiple objects that have the same propert
 
 ###OUTPUT
 
-´´´
+```
 -------------  
 Book Number 1  
 -------------  

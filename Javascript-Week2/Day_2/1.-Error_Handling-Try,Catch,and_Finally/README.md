@@ -29,7 +29,7 @@ The finally statement allows you to execute code, after try and catch statements
 
 ##SAMPLE CODE
 
-```
+```javascript
 var a = 1;  
 //var p = 2;  
 

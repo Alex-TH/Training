@@ -14,7 +14,7 @@ When we put something on the prototype, every instance of the object shares the 
 
 ###SAMPLE CODE
 
-```
+```javascript
   function Pokemon(pokemonName, pokemonType, pokemonAttackList){  
   	this.name = pokemonName;  
   	this.type = pokemonType;  
@@ -58,6 +58,6 @@ Using prototypes is much more efficient. In the above example, the methods are p
 
 ##Task
 
-You are given a function, SquareSquare, that takes four parameters, AA, BB, CC and DD, denoting the length of the square's edges. 
+You are given a function, SquareSquare, that takes four parameters, A, B, C and D, denoting the length of the square's edges. 
 Using prototype properties, add a method to SquareSquare named isSquareisSquare that prints true if a Square object has equal edges and false if they are unequal.
 

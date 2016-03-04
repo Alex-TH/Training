@@ -10,7 +10,7 @@ The execution of the current function will stop which means that the statements 
 
 ###SAMPLE CODE
 
-```
+```javascript
   var a = 9;  
   var b = 0;  
 
@@ -53,7 +53,7 @@ seven
 TestCase 01  
 
 ```
-77  
+7   
 ```
 
 TestCase 02  
