@@ -9,7 +9,7 @@ Check out the Tutorial tab to learn more about using the ```<div>``` tag.
 ##Task 
 Create nine buttons laid out in a 3×3 grid, like so: 
 
-![Grid](./images/initalgrid.PNG)  
+![Grid](./images/initialgrid.png)  
 
 The id for the button container ```<div>``` is btns.  
 The id for the button with text 1 is btn1.  
@@ -31,15 +31,15 @@ Every time button 5 is clicked, the text displayed on each button in the outer g
 
 Initially, the buttons' text are: 
 
-![Grid](./images/initalgrid.PNG)  
+![Grid](./images/initialgrid.png)  
 
 After clicking the button 5: 
 
-![Grid1Click](./images/grid1click.PNG)  
+![Grid1Click](./images/grid1click.png)  
 
 After clicking the button 5 one more time: 
 
-![Grid5Clicks](./images/grid5clicks.PNG)  
+![Grid5Clicks](./images/grid5clicks.png)  
 
 ##Note
 
