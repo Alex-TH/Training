@@ -7,8 +7,8 @@ The first line contains an integer $T$ representing the number of testcases
 Each test case is a line containing four space separated integers Px Py Qx Qy representing the (x,y) coordinates of $P$ and $Q$.
 
 ##Constraints 
-1⩽T⩽15 
-−100⩽x,y⩽100
+1⩽T⩽15  
+−100⩽x,y⩽100  
 
 ##Output Format 
 For each test case output x and y coordinates of the symmetric point (each point in a new line).
