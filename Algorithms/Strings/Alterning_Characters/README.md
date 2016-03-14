@@ -6,7 +6,7 @@ Your task is to find the minimum number of required deletions.
 
 ##Input Format
 
-The first line contains an integer T, i.e. the number of test cases. 
+The first line contains an integer T4, i.e. the number of test cases. 
 The next T lines contain a string each.
 
 ##Output Format
